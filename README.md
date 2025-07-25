@@ -64,7 +64,7 @@ customtkinter-calculator/
 
 ## 👨‍💻 Author
 
-Developed by [Andrey Souza](https://github.com/seu-usuario)
+Developed by [Andrey Souza](https://github.com/DreyESSouza)
 
 Feel free to fork, contribute, or suggest improvements!
 
